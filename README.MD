@@ -12,5 +12,4 @@ The purpose of this project is to investigate two datasets one with demographic 
 5. Identify_Customer_Segments.ipynb: Jupyter Notebook divided into sections and guidelines for completing the project. The notebook provides more details and tips than the outline given here.
 
 ##Udacity Unsupervised Learning Project
-![Screenshot](Identify_Customer_Segments.html)
 
